@@ -1,1 +1,0 @@
-import{u as t,j as e}from"./index-3eF2Bng0.js";const s=()=>{const{t:l}=t(),a=l("code");return e.jsx("div",{className:"relative w-full h-[280px]",children:e.jsx("iframe",{className:"w-full h-full",src:`https://infeelit.vercel.app/?lang=${a}`,allow:"microphone",allowFullScreen:!0})})};export{s as default};
